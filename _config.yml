@@ -11,6 +11,8 @@
     </script>
 </head>
 
+markdown: kramdown
+
 # The Site Configuration
 
 # Import the theme
