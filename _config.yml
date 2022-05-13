@@ -25,7 +25,7 @@ timezone:
 
 title: Wecky Zheng                         # the main title
 
-tagline: 冰冻三尺，非一日之寒   # it will display as the sub-title
+tagline: 路漫漫其修远兮，吾将上下而求索   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
     这是通过Chirpy主题配置而成的
